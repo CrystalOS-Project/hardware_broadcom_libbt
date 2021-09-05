@@ -394,4 +394,3 @@ int userial_set_force_use_2_stop_bits(char *p_conf_name, char *p_conf_value, int
         vnd_userial_force_2stopbits = FALSE;
     return 0;
 }
-
